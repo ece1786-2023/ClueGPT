@@ -1,0 +1,141 @@
+,Unnamed: 0,Prompt,X,Clue,generated_return,max_tokens,temperature,top_p,selected,correct,system_msg,comment,answer,clue_prompt,gpt_clue
+0,0,guess an answer to the following crossword clue which is 5 letters long and includes letters U as letter 1 and is not 'Unfit': <clue>,"X                   Not up to the job
+num_of_char                         5
+included_letters             {0: 'U'}
+Name: 0, dtype: object",Not up to the job,['Unfit'],8,1.2,1,unfit,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),UNFIT,"Given the word ""unfit"",   generate another crossword clue that is not ""Not up to the job"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""Inadequate or unsuitable for a specific purpose"""
+1,1,guess an answer to the following crossword clue which is 4 letters long and includes letters M as letter 1 and is not 'MYOB': <clue>,"X                   ""Butt out!,"" in brief
+num_of_char                             4
+included_letters                 {0: 'M'}
+Name: 1, dtype: object","""Butt out!,"" in brief",['MYOB'],8,1.2,1,myob,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),MYOB,"Given the word ""myob"",   generate another crossword clue that is not """"Butt out!,"" in brief"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""Keep it to yourself, initially!"""
+2,2,guess an answer to the following crossword clue which is 4 letters long and includes letters A as letter 1 and is not 'ABLE': <clue>,"X                   Up to the job
+num_of_char                     4
+included_letters         {0: 'A'}
+Name: 2, dtype: object",Up to the job,['ABLE'],8,1.2,1,able,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),ABLE,"Given the word ""able"",   generate another crossword clue that is not ""Up to the job"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""Capable or competent""."
+3,3,guess an answer to the following crossword clue which is 10 letters long and includes letters P as letter 1 and is not 'Perceptive': <clue>,"X                   Subtly damaging
+num_of_char                      10
+included_letters           {0: 'P'}
+Name: 3, dtype: object",Subtly damaging,['Perceptive'],8,1.2,1,perceptive,False,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),PERNICIOUS,"Given the word ""perceptive"",   generate another crossword clue that is not ""Subtly damaging"". Output your clue in the format like so,  Another clue is: <your clue here>.",No clue available.
+4,4,guess an answer to the following crossword clue which is 4 letters long and includes letters M as letter 1 and is not 'MIME': <clue>,"X                   Copy cat?
+num_of_char                 4
+included_letters     {0: 'M'}
+Name: 4, dtype: object",Copy cat?,['MIME'],8,1.2,1,mime,False,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),MEOW,"Given the word ""mime"",   generate another crossword clue that is not ""Copy cat?"". Output your clue in the format like so,  Another clue is: <your clue here>.",No clue available.
+5,5,guess an answer to the following crossword clue which is 10 letters long and includes letters D as letter 1 and is not 'Distracted': <clue>,"X                   Drives around in circles, perhaps
+num_of_char                                        10
+included_letters                             {0: 'D'}
+Name: 5, dtype: object","Drives around in circles, perhaps",['Distracted'],8,1.2,1,distracted,False,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),DOESDONUTS,"Given the word ""distracted"",   generate another crossword clue that is not ""Drives around in circles, perhaps"". Output your clue in the format like so,  Another clue is: <your clue here>.",No clue available.
+6,6,guess an answer to the following crossword clue which is 4 letters long and includes letters A as letter 1 and is not 'Aloe': <clue>,"X                   Pharmaceutical plant
+num_of_char                            4
+included_letters                {0: 'A'}
+Name: 6, dtype: object",Pharmaceutical plant,['Aloe'],8,1.2,1,aloe,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),ALOE,"Given the word ""aloe"",   generate another crossword clue that is not ""Pharmaceutical plant"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""Succulent used in skincare products"""
+7,7,guess an answer to the following crossword clue which is 3 letters long and includes letters O as letter 1 and is not 'ONE': <clue>,"X                    Unified
+num_of_char                3
+included_letters    {0: 'O'}
+Name: 7, dtype: object", Unified,['ONE'],8,1.2,1,one,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),ONE,"Given the word ""one"",   generate another crossword clue that is not "" Unified"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""Digit after zero"""
+8,8,guess an answer to the following crossword clue which is 5 letters long and includes letters B as letter 1 and is not 'Basso': <clue>,"X                   Low parts of an opera
+num_of_char                             5
+included_letters                 {0: 'B'}
+Name: 8, dtype: object",Low parts of an opera,['Basso'],8,1.2,1,basso,False,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),BASSI,"Given the word ""basso"",   generate another crossword clue that is not ""Low parts of an opera"". Output your clue in the format like so,  Another clue is: <your clue here>.",No clue available.
+9,9,guess an answer to the following crossword clue which is 4 letters long and includes letters Z as letter 1 and is not 'ZITS': <clue>,"X                   Comic strip with a teenage protagonist
+num_of_char                                              4
+included_letters                                  {0: 'Z'}
+Name: 9, dtype: object",Comic strip with a teenage protagonist,['ZITS'],8,1.2,1,zits,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),ZITS,"Given the word ""zits"",   generate another crossword clue that is not ""Comic strip with a teenage protagonist"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""Common teenage skin problem""."
+10,10,"guess an answer to the following crossword clue which is 11 letters long and includes letters H as letter 1 and is not 'Hypotheses', 'Historiography', 'Hydrography', 'Hieroglyph', 'Hyperfocus' or 'Hypothesis': <clue>","X                      Study
+num_of_char               11
+included_letters    {0: 'H'}
+Name: 10, dtype: object",   Study,"['Hieroglyph', 'Hyperfocus', 'Hypothesis', 'Historiography', 'Hypotheses', 'Hydrography']",8,1.2,1,hydrography,False,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),HITTHEBOOKS,"Given the word ""hydrography"",   generate another crossword clue that is not ""   Study"". Output your clue in the format like so,  Another clue is: <your clue here>.",No clue available.
+11,11,guess an answer to the following crossword clue which is 5 letters long and includes letters M as letter 1 and is not 'Mamet': <clue>,"X                   ""House of Games"" writer/director
+num_of_char                                        5
+included_letters                            {0: 'M'}
+Name: 11, dtype: object","""House of Games"" writer/director",['Mamet'],8,1.2,1,mamet,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),MAMET,"Given the word ""mamet"",   generate another crossword clue that is not """"House of Games"" writer/director"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""American playwright who authored 'Glengarry Glen Ross'"""
+12,12,guess an answer to the following crossword clue which is 7 letters long and includes letters R as letter 1 and is not 'Royalty': <clue>,"X                   Cash in the music business
+num_of_char                                  7
+included_letters                      {0: 'R'}
+Name: 12, dtype: object",Cash in the music business,['Royalty'],8,1.2,1,royalty,False,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),ROSANNE,"Given the word ""royalty"",   generate another crossword clue that is not ""Cash in the music business"". Output your clue in the format like so,  Another clue is: <your clue here>.",No clue available.
+13,13,guess an answer to the following crossword clue which is 4 letters long and includes letters I as letter 1 and is not 'IRON': <clue>,"X                      Press
+num_of_char                4
+included_letters    {0: 'I'}
+Name: 13, dtype: object",   Press,['IRON'],8,1.2,1,iron,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),IRON,"Given the word ""iron"",   generate another crossword clue that is not ""   Press"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""Essential mineral for blood health"""
+14,14,guess an answer to the following crossword clue which is 3 letters long and includes letters P as letter 1 and is not 'PET': <clue>,"X                   Little, in Lyon
+num_of_char                       3
+included_letters           {0: 'P'}
+Name: 14, dtype: object","Little, in Lyon",['PET'],8,1.2,1,pet,False,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),PEU,"Given the word ""pet"",   generate another crossword clue that is not ""Little, in Lyon"". Output your clue in the format like so,  Another clue is: <your clue here>.",No clue available.
+15,15,guess an answer to the following crossword clue which is 6 letters long and includes letters S as letter 1 and is not 'Sister': <clue>,"X                   Convent resident
+num_of_char                        6
+included_letters            {0: 'S'}
+Name: 15, dtype: object",Convent resident,['Sister'],8,1.2,1,sister,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),SISTER,"Given the word ""sister"",   generate another crossword clue that is not ""Convent resident"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""Female sibling"""
+16,16,guess an answer to the following crossword clue which is 3 letters long and includes letters S as letter 1 and is not 'SIR': <clue>,"X                   One who's been tapped on the shoulder
+num_of_char                                             3
+included_letters                                 {0: 'S'}
+Name: 16, dtype: object",One who's been tapped on the shoulder,['SIR'],8,1.2,1,sir,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),SIR,"Given the word ""sir"",   generate another crossword clue that is not ""One who's been tapped on the shoulder"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""Gentleman's title in England"""
+17,17,"guess an answer to the following crossword clue which is 7 letters long and includes letters B as letter 1 and is not 'The answer could be ""Backlot"".', 'The answer could be ""Balance"".', 'The answer could be ""Barrier"".', 'The answer could be ""Bathtub"".', 'The answer could be ""Bandbox"".' or 'The answer could be ""Bedroom"".': <clue>","X                   Installation in a children's play area
+num_of_char                                              7
+included_letters                                  {0: 'B'}
+Name: 17, dtype: object",Installation in a children's play area,"['The answer could be ""Bandbox"".', 'The answer could be ""Backlot"".', 'The answer could be ""Balance"".', 'The answer could be ""Bedroom"".', 'The answer could be ""Barrier"".', 'The answer could be ""Bathtub"".', 'The answer could be ""Bandbox"".', 'The answer could be ""Bandbox"".', 'The answer could be ""Bandbox"".', 'The answer could be ""Bandbox"".']",8,1.2,1,FALSE,False,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),BALLPIT,"Given the word ""FALSE"",   generate another crossword clue that is not ""Installation in a children's play area"". Output your clue in the format like so,  Another clue is: <your clue here>.",No clue available.
+18,18,guess an answer to the following crossword clue which is 3 letters long and includes letters H as letter 1 and is not 'HAY': <clue>,"X                   Make ___
+num_of_char                3
+included_letters    {0: 'H'}
+Name: 18, dtype: object",Make ___,['HAY'],8,1.2,1,hay,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),HAY,"Given the word ""hay"",   generate another crossword clue that is not ""Make ___"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""Barn loft filler"""
+19,19,guess an answer to the following crossword clue which is 6 letters long and includes letters C as letter 1 and is not 'Caesar': <clue>,"X                   Who says, in Shakespeare, ""Yond Cassius has a ...
+num_of_char                                                         6
+included_letters                                             {0: 'C'}
+Name: 19, dtype: object","Who says, in Shakespeare, ""Yond Cassius has a ...",['Caesar'],8,1.2,1,caesar,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),CAESAR,"Given the word ""caesar"",   generate another crossword clue that is not ""Who says, in Shakespeare, ""Yond Cassius has a ..."". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""Famous roman ruler, known for his assassination."""
+20,20,guess an answer to the following crossword clue which is 3 letters long and includes letters D as letter 1 and is not 'DUE': <clue>,"X                   Start to charge?
+num_of_char                        3
+included_letters            {0: 'D'}
+Name: 20, dtype: object",Start to charge?,['DUE'],8,1.2,1,due,False,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),DIS,"Given the word ""due"",   generate another crossword clue that is not ""Start to charge?"". Output your clue in the format like so,  Another clue is: <your clue here>.",No clue available.
+21,21,guess an answer to the following crossword clue which is 4 letters long and includes letters S as letter 1 and is not 'SAVE': <clue>,"X                    Reserve
+num_of_char                4
+included_letters    {0: 'S'}
+Name: 21, dtype: object", Reserve,['SAVE'],8,1.2,1,save,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),SAVE,"Given the word ""save"",   generate another crossword clue that is not "" Reserve"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""Preserve for future use""."
+22,22,"guess an answer to the following crossword clue which is 7 letters long and includes letters T as letter 1 and is not 'The answer could be ""Trewing', 'The answer could be ""Tartane', 'The answer could be ""Tartars', 'The answer could be ""Tartans', 'The answer could be ""Trews', 'Tartan', 'The answer could be ""Tamoshanter' or 'The answer could be ""Tartlet': <clue>","X                   Highland wear
+num_of_char                     7
+included_letters         {0: 'T'}
+Name: 22, dtype: object",Highland wear,"['Tartan', 'The answer could be ""Tamoshanter', 'The answer could be ""Trews', 'The answer could be ""Tartans', 'The answer could be ""Tartane', 'The answer could be ""Trews', 'The answer could be ""Tartars', 'The answer could be ""Trews', 'The answer could be ""Trewing', 'The answer could be ""Tartlet']",8,1.2,1,FALSE,False,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),TARTANS,"Given the word ""FALSE"",   generate another crossword clue that is not ""Highland wear"". Output your clue in the format like so,  Another clue is: <your clue here>.",No clue available.
+23,23,guess an answer to the following crossword clue which is 5 letters long and includes letters C as letter 1 and is not 'CITES': <clue>,"X                   Points to
+num_of_char                 5
+included_letters     {0: 'C'}
+Name: 23, dtype: object",Points to,['CITES'],8,1.2,1,cites,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),CITES,"Given the word ""cites"",   generate another crossword clue that is not ""Points to"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""Acknowledges sources"""
+24,24,guess an answer to the following crossword clue which is 11 letters long and includes letters T as letter 1 and is not 'Touristtrap': <clue>,"X                   Many a shop outside a national park
+num_of_char                                          11
+included_letters                               {0: 'T'}
+Name: 24, dtype: object",Many a shop outside a national park,['Touristtrap'],8,1.2,1,touristtrap,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),TOURISTTRAP,"Given the word ""touristtrap"",   generate another crossword clue that is not ""Many a shop outside a national park"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""A deceptive attraction for travelers"""
+25,25,guess an answer to the following crossword clue which is 4 letters long and includes letters F as letter 1 and is not 'Fact': <clue>,"X                   It's true!
+num_of_char                  4
+included_letters      {0: 'F'}
+Name: 25, dtype: object",It's true!,['Fact'],8,1.2,1,fact,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),FACT,"Given the word ""fact"",   generate another crossword clue that is not ""It's true!"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""Piece of verified information""."
+26,26,guess an answer to the following crossword clue which is 5 letters long and includes letters C as letter 1 and is not 'CHOIR': <clue>,"X                   Group often costumed in robes
+num_of_char                                     5
+included_letters                         {0: 'C'}
+Name: 26, dtype: object",Group often costumed in robes,['CHOIR'],8,1.2,1,choir,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),CHOIR,"Given the word ""choir"",   generate another crossword clue that is not ""Group often costumed in robes"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""Singing ensemble in a church""."
+27,27,guess an answer to the following crossword clue which is 3 letters long and includes letters F as letter 1 and is not 'FAB': <clue>,"X                      Marvy
+num_of_char                3
+included_letters    {0: 'F'}
+Name: 27, dtype: object",   Marvy,['FAB'],8,1.2,1,fab,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),FAB,"Given the word ""fab"",   generate another crossword clue that is not ""   Marvy"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""Slang for fantastic"""
+28,28,guess an answer to the following crossword clue which is 4 letters long and includes letters O as letter 1 and is not 'OBOE': <clue>,"X                   Hautbois, en anglais
+num_of_char                            4
+included_letters                {0: 'O'}
+Name: 28, dtype: object","Hautbois, en anglais",['OBOE'],8,1.2,1,oboe,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),OBOE,"Given the word ""oboe"",   generate another crossword clue that is not ""Hautbois, en anglais"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""Orchestral woodwind instrument with a distinctive tone"""
+29,29,"guess an answer to the following crossword clue which is 10 letters long and includes letters R as letter 1 and is not ''RETORTION'', 'REMATURELY' or 'REACTIONARY': <clue>","X                   ""Oh, grow up!""
+num_of_char                     10
+included_letters          {0: 'R'}
+Name: 29, dtype: object","""Oh, grow up!""","['REACTIONARY', ""'RETORTION'"", 'REMATURELY']",8,1.2,1,rematurely,False,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),REALMATURE,"Given the word ""rematurely"",   generate another crossword clue that is not """"Oh, grow up!"""". Output your clue in the format like so,  Another clue is: <your clue here>.",No clue available.
+30,30,guess an answer to the following crossword clue which is 4 letters long and includes letters R as letter 1 and is not 'Rome': <clue>,"X                   Terminus of the Appian Way
+num_of_char                                  4
+included_letters                      {0: 'R'}
+Name: 30, dtype: object",Terminus of the Appian Way,['Rome'],8,1.2,1,rome,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),ROME,"Given the word ""rome"",   generate another crossword clue that is not ""Terminus of the Appian Way"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""The capital city of Italy""."
+31,31,guess an answer to the following crossword clue which is 10 letters long and includes letters I as letter 1 and is not 'Investment': <clue>,"X                   Potential source of interest
+num_of_char                                   10
+included_letters                        {0: 'I'}
+Name: 31, dtype: object",Potential source of interest,['Investment'],8,1.2,1,investment,True,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),INVESTMENT,"Given the word ""investment"",   generate another crossword clue that is not ""Potential source of interest"". Output your clue in the format like so,  Another clue is: <your clue here>.","Another clue is: ""Financial asset allocation"""
+32,32,guess an answer to the following crossword clue which is 4 letters long and includes letters T as letter 1 and is not 'TALL': <clue>,"X                   Word with pigeon or pointy
+num_of_char                                  4
+included_letters                      {0: 'T'}
+Name: 32, dtype: object",Word with pigeon or pointy,['TALL'],8,1.2,1,tall,False,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),TOED,"Given the word ""tall"",   generate another crossword clue that is not ""Word with pigeon or pointy"". Output your clue in the format like so,  Another clue is: <your clue here>.",No clue available.
+33,33,guess an answer to the following crossword clue which is 4 letters long and includes letters O as letter 1 and is not 'ODDS': <clue>,"X                   Confucius' ""Book of ___""
+num_of_char                                4
+included_letters                    {0: 'O'}
+Name: 33, dtype: object","Confucius' ""Book of ___""",['ODDS'],8,1.2,1,odds,False,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),ODES,"Given the word ""odds"",   generate another crossword clue that is not ""Confucius' ""Book of ___"""". Output your clue in the format like so,  Another clue is: <your clue here>.",No clue available.
+34,34,guess an answer to the following crossword clue which is 5 letters long and includes letters S as letter 1 and is not 'Sects': <clue>,"X                   Walled-off divisions, metaphorically
+num_of_char                                            5
+included_letters                                {0: 'S'}
+Name: 34, dtype: object","Walled-off divisions, metaphorically",['Sects'],8,1.2,1,sects,False,You are a helpful assistant who guess answers to crossword clues without any additional text.,redid the random number of letters included (it is 40% and used to be 30%),SILOS,"Given the word ""sects"",   generate another crossword clue that is not ""Walled-off divisions, metaphorically"". Output your clue in the format like so,  Another clue is: <your clue here>.",No clue available.
